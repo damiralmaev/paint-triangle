@@ -1,0 +1,10 @@
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\bin\Debug\рисовалка.exe.config
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\bin\Debug\рисовалка.exe
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\bin\Debug\рисовалка.pdb
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.csprojAssemblyReference.cache
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.Form1.resources
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.Properties.Resources.resources
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.csproj.GenerateResource.cache
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.exe
+C:\Users\Дамир\source\repos\рисовалка\рисовалка\obj\Debug\рисовалка.pdb
